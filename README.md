@@ -58,7 +58,7 @@
 
 ## ✒️ Autor
 
-Proyecto desarrollado por **[Manuel Rodriguez]**.
+Proyecto desarrollado por **[Manuel Rodriguez y Daniel Otero]**.
 
 ### Login
 ![Login](imagenes/Login.png)
