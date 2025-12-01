@@ -66,13 +66,13 @@ Proyecto desarrollado por **[Manuel Rodriguez]**.
 ![Vista del Menú](imagenes\MenuPrincipal.png)
 
 ### Registro de Préstamos
-![Vista de Registro de Préstamo](imagenes\PanelPrestamos.png)
+![Vista de Registro de Préstamo](imagenes/PanelPrestamos.png)
 
 ### Registro de Devoluciones
-![Vista de Registro de Devoluciones](imagenes\PanelDevoluciones.png)
+![Vista de Registro de Devoluciones](imagenes/PanelDevoluciones.png)
 
 ### Gestión de Estudiantes
-![Vista de Gestion de Estudiantes](imagenes\PanelEstudiantes.png)
+![Vista de Gestion de Estudiantes](imagenes/PanelEstudiantes.png)
 
 ### Gestión de Libros
-![Vista de Gestion de Libros](imagenes\PanelDevoluciones.png)
+![Vista de Gestion de Libros](imagenes/PanelDevoluciones.png)
