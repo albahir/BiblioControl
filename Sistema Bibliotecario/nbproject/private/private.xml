@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/Entidadesbiblioteca/Prestamo.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/PrestamosCRUD.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/Busqueda.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/LoginScreen.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/MenuPrincipal.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/PanelPrestamos.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/PanelEstudiantes.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/EstudiantesCRUD.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/BaseArchivos.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/PanelLibros.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/Entidadesbiblioteca/Libro.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/LibroCRUD.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/Entidadesbiblioteca/Estudiante.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/InterfacesBiblioteca/PanelDevoluciones.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/AccesoDatosBiblioteca/GestorArchivos.java</file>
+            <file>file:/C:/java/Sistema%20De%20Biblioteca/Sistema%20Bibliotecario/src/Entidadesbiblioteca/Admin.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,4 @@
+28111222;Ana García;Ingeniería en Informática;0414-1234567;ana@mail.com
+30555666;María Rodríguez;Administración;0416-5551122;maria@mail.com
+31777888;Luis González;Ingeniería Civil;0424-1112233;luis@mail.com
+32888999;Sofía Méndez;Contaduría;0412-1112223;sofia@mail.com

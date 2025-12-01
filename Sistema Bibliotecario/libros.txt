@@ -1,0 +1,14 @@
+INF-001;Java: Cómo Programar;Deitel & Deitel;Programación y Desarrollo;2
+INF-002;Clean Code;Robert C. Martin;Programación y Desarrollo;0
+INF-003;Fundamentos de Bases de Datos;Silberschatz;Bases de Datos;3
+INF-004;Redes de Computadoras;Tanenbaum;Redes y Seguridad;1
+INF-005;Inteligencia Artificial Moderna;Russell & Norvig;Inteligencia Artificial;3
+CIV-010;Mecánica de Suelos;Juarez Badillo;Hidráulica y Geotecnia;3
+CIV-011;Diseño de Estructuras de Acero;McCormac;Diseño Estructural;4
+CIV-012;Materiales de Construcción;Mamlouk;Materiales y Construcción;6
+CIV-013;Hidráulica General;Gilberto Sotelo;Hidráulica y Geotecnia;2
+ADM-030;Marketing Estratégico;Kotler;Marketing y Estrategia;4
+ADM-031;Administración de RRHH;Chiavenato;Recursos Humanos;2
+CON-032;Normas NIIF Completas;Consejo Tecnico;Contabilidad y Auditoría;6
+CON-033;Principios de Finanzas;Gitman;Finanzas y Tributación;4
+CON-034;Auditoría Práctica;Whittington;Contabilidad y Auditoría;2
