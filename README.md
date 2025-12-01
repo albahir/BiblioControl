@@ -60,19 +60,19 @@
 Proyecto desarrollado por **[Manuel Rodriguez]**.
 
 ### Login
-![Alerta de Morosidad](imagenes\Login.png)
+![Login](imagenes\Login.png)
 
 ### Menú Principal
 ![Vista del Menú](imagenes\MenuPrincipal.png)
 
 ### Registro de Préstamos
-![Registro de Préstamo](imagenes\PanelPrestamos.png)
+![Vista de Registro de Préstamo](imagenes\PanelPrestamos.png)
 
 ### Registro de Devoluciones
-![Alerta de Morosidad](imagenes\PanelDevoluciones.png)
+![Vista de Registro de Devoluciones](imagenes\PanelDevoluciones.png)
 
 ### Gestión de Estudiantes
-![Alerta de Morosidad](imagenes\PanelEstudiantes.png)
+![Vista de Gestion de Estudiantes](imagenes\PanelEstudiantes.png)
 
 ### Gestión de Libros
-![Alerta de Morosidad](imagenes\PanelDevoluciones.png)
+![Vista de Gestion de Libros](imagenes\PanelDevoluciones.png)
