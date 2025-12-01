@@ -60,10 +60,10 @@
 Proyecto desarrollado por **[Manuel Rodriguez]**.
 
 ### Login
-![Login](imagenes\Login.png)
+![Login](imagenes/Login.png)
 
 ### Menú Principal
-![Vista del Menú](imagenes\MenuPrincipal.png)
+![Vista del Menú](imagenes/MenuPrincipal.png)
 
 ### Registro de Préstamos
 ![Vista de Registro de Préstamo](imagenes/PanelPrestamos.png)
