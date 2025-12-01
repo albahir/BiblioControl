@@ -57,4 +57,22 @@
 
 ## ✒️ Autor
 
-Proyecto desarrollado por **[TU NOMBRE]**.
+Proyecto desarrollado por **[Manuel Rodriguez]**.
+
+### Login
+![Alerta de Morosidad](imagenes\Login.png)
+
+### Menú Principal
+![Vista del Menú](imagenes\MenuPrincipal.png)
+
+### Registro de Préstamos
+![Registro de Préstamo](imagenes\PanelPrestamos.png)
+
+### Registro de Devoluciones
+![Alerta de Morosidad](imagenes\PanelDevoluciones.png)
+
+### Gestión de Estudiantes
+![Alerta de Morosidad](imagenes\PanelEstudiantes.png)
+
+### Gestión de Libros
+![Alerta de Morosidad](imagenes\PanelDevoluciones.png)
