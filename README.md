@@ -46,6 +46,7 @@
 3.  **Ejecutar:**
     * Busca la clase principal: `InterfacesBiblioteca.MenuPrincipal`.
     * Haz clic en **Run**.
+    * Usuario **admin** Contraseña **123**
 4.  **Datos de Prueba:**
     * *Nota:* Al ejecutar por primera vez, el sistema detectará la ausencia de archivos y generará automáticamente un catálogo de libros y estudiantes de prueba (Seed Data).
 
